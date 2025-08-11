@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iu5gAqLQe2Y=",
+  "success": true,
+  "projectFilePath": "/home/tailsmonster/prudoctivity-app/backend/Kronoscan.Api/Kronoscan.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/tailsmonster/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "/home/tailsmonster/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/tailsmonster/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
